@@ -1,0 +1,12 @@
+{
+  "name": "a-tale-of-phantoms",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "request": "*"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
